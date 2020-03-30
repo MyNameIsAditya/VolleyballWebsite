@@ -4,6 +4,8 @@ Created a comprehensive website template with designs for grid systems, navigati
 
 ## Pictures
 
-![WebPageImage1](https://github.com/MyNameIsAditya/ViolinLessons/blob/master/readme_images/image1.png)
-![WebPageImage1](https://github.com/MyNameIsAditya/ViolinLessons/blob/master/readme_images/image2.png)
-![WebPageImage1](https://github.com/MyNameIsAditya/ViolinLessons/blob/master/readme_images/image3.png)
+![WebPageImage1](https://github.com/MyNameIsAditya/VolleyballWebsite/blob/master/readme_images/Image1.png)
+![WebPageImage1](https://github.com/MyNameIsAditya/VolleyballWebsite/blob/master/readme_images/Image2.png)
+![WebPageImage1](https://github.com/MyNameIsAditya/VolleyballWebsite/blob/master/readme_images/Image3.png)
+![WebPageImage1](https://github.com/MyNameIsAditya/VolleyballWebsite/blob/master/readme_images/Image4.png)
+![WebPageImage1](https://github.com/MyNameIsAditya/VolleyballWebsite/blob/master/readme_images/Image5.png)
