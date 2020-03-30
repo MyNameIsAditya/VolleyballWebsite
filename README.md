@@ -1,7 +1,6 @@
 # Volleyball Website (Desktop and Mobile Compatible)
-A comprehensive website template with grid systems, navigation bars, jumbotrons, carousels, modals, iframes, and favicons.
 
-Comprehensive Website Template with Designs for
+Created a comprehensive website template with designs for
 1) Grid System
 2) Navigation Bar
 3) Jumbotron
