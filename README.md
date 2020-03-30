@@ -1,8 +1,7 @@
 # Volleyball Website (Desktop and Mobile Compatible)
 
 Created a comprehensive website template with designs for
-1) Grid System
-2) Navigation Bar
+1) Grid System              2) Navigation Bar
 3) Jumbotron
 4) Carousel
 5) Modal
