@@ -1,0 +1,107 @@
+div.landingPageContainer
+{
+    padding: 0;
+}
+
+.jumbotron
+{
+    text-align: center;
+    background:none;
+}
+
+.sectionLight
+{
+    background-color: #ECEEEF;
+    padding: 2rem;
+}
+
+.sectionDark
+{
+    background-color: #CCCCCC;
+    padding: 2rem;
+}
+
+.buttonWrapper
+{
+    margin-top: 20px;
+}
+
+button.coolButton
+{
+/*    background-color: red;*/
+    color: white;
+    display: block;
+    margin: auto;
+}
+
+h5.modal-title
+{
+    margin: auto;
+}
+
+
+.modal-header .close
+{
+    margin: -1rem -1rem -1rem -1rem;
+}
+
+.modalFormWrapper
+{
+    padding: 2rem;
+}
+
+.imgCenter
+{
+    display: block;
+    margin: auto;
+}
+
+.buttonCenter
+{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 75%;
+}
+
+h3.modalTitleVideo
+{
+    padding: 10px;
+    text-align: center;
+}
+
+.fa 
+{
+    margin: 10px;
+}
+
+.fa-facebook-square
+{
+    color: #3B5998;
+}
+
+.fa-google-plus-square
+{
+    color: #C32F10;
+}
+
+.fa-instagram
+{
+    color: white;
+}
+
+.fa-whatsapp-square
+{
+    color: lightgreen;
+}
+
+.fa-twitter-square
+{
+    color: cornflowerblue;
+}
+
+.socialWrapper
+{
+    margin: auto;
+}
